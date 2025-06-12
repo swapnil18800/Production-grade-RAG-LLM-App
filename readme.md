@@ -71,13 +71,10 @@ Contributions are welcome! Feel free to:
 3. **Commit** your changes and push to your fork.
 4. Submit a **pull request** for review.
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
 ## 📞 Contact
 For any questions or support, feel free to reach out:
 - **GitHub Issues**: Open an issue in this repository.
-- **Email**: swapnil18800@gmail.com (Replace with actual contact)
+- **Email**: swapnil18800@gmail.com
 
 ---
 _Enhancing AI with smarter retrieval! 🚀🤖_
